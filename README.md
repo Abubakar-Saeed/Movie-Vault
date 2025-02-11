@@ -12,7 +12,7 @@ Movie Vault is a dynamic and responsive web application built with **React**, de
 - **Frontend:** React.js  
 - **API Integration:** Fetch data from a robust movie API  
 - **State Management:** React hooks for seamless app functionality  
-- **Styling:** TailwindCSS (or any preferred CSS framework)  
+- **Styling:**  CSS
 
 ## 📸 Preview  
 ![Uploading image.png…]()
@@ -22,7 +22,7 @@ Movie Vault is a dynamic and responsive web application built with **React**, de
 
 1. Clone the repo:  
    ```bash
-   git clone https://github.com/your-username/movie-vault.git
+   git clone https://github.com/Abubakar-Saeed/Movie-Vault.git
    cd movie-vault
 2. Install dependency:
      npm install
