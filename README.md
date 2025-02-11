@@ -36,4 +36,5 @@ Contributions are welcome! Please follow these steps:
 - Commit your changes: git commit -m 'Add some feature'
 - Push to the branch: git push origin feature-branch-name
 - Open a pull request.
-💖 Thank you for visiting Movie Vault! 🎉
+
+  # 💖 Thank you for visiting Movie Vault! 🎉
