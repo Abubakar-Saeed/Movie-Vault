@@ -37,4 +37,4 @@ Contributions are welcome! Please follow these steps:
 - Push to the branch: git push origin feature-branch-name
 - Open a pull request.
 
-  # 💖 Thank you for visiting Movie Vault! 🎉
+  ## 💖 Thank you for visiting Movie Vault! 🎉
