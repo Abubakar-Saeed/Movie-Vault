@@ -15,8 +15,8 @@ Movie Vault is a dynamic and responsive web application built with **React**, de
 - **Styling:**  CSS
 
 ## 📸 Preview  
-![Uploading image.png…]()
-  
+![Screenshot 2025-02-11 192834](https://github.com/user-attachments/assets/6b1f1925-4d78-4c0d-b733-07e55b112f80)
+
 
 ## 🏁 How to Run Locally  
 
